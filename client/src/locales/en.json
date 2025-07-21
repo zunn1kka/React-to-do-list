@@ -1,0 +1,54 @@
+{
+  "tasks": {
+    "title": "My Tasks",
+    "create": "Create Task",
+    "empty": "You have no tasks yet. Create your first one!",
+    "due": "Due Date:",
+    "complete": "Complete",
+    "incomplete": "Incomplete",
+    "delete": "Delete"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Sign Up",
+    "logout": "Sign Out",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?"
+  },
+  "navbar": {
+    "home": "Home",
+    "tasks": "My Tasks"
+  },
+  "home": {
+    "guestTitle": "Welcome to Task Manager",
+    "userTitle": "Welcome back to your Task Manager",
+    "subtitle": "Organize your life with simplicity",
+    "aboutTitle": "About This Project",
+    "aboutText": "This is a simple yet functional task management app built using React, MobX and Bootstrap.",
+    "features": {
+      "taskManagement": "Adding and Managing Tasks",
+      "statusTracking": "Marking completed tasks",
+      "deadlines": "Setting deadlines"
+    },
+    "cta": {
+      "guest": "Ready to boost your productivity?",
+      "user": "Check your current tasks"
+    }
+  },
+  "form": {
+    "username": "Username",
+    "email": "Email Address",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "taskCreate": "Task Create",
+    "taskEdit": "Task Edit",
+    "taskTitle": "Task Title",
+    "description": "Task Description",
+    "create": "Create",
+    "save": "Save",
+    "cancel": "Cancel",
+
+    "submit": "Submit",
+    "required": "This field is required"
+  }
+}
